@@ -2,21 +2,21 @@ h1 {
     color: #00d0ff;
     text-align: center;
     padding-top: 15px;
-    padding-bottom: 15px
+    padding-bottom: 15px;
 }
 
 body {background-color: #333330;}
 
-a:link {color: #ffdd00}
+a:link {color: #ffdd00;}
 
-a:visited {color: #ffffff}
+a:visited {color: #ffffff;}
 
-a:hover {color: #00d0ff}
+a:hover {color: #00d0ff;}
 
 img {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 
 a#comm {
@@ -35,33 +35,33 @@ dd {
     font-size: 18px;
     padding-top: 5px;
     padding-bottom: 5px;
-    text-align: center
+    text-align: center;
 }
 
-#video-link,dt,#comm {text-align: center}
+#video-link,dt,#comm {text-align: center;}
 
 #link {
     text-decoration: underline;
     padding: 10px;
-    font-size: 20px
+    font-size: 20px;
 }
 
 a.composer {
     color: #00d0ff;
     text-decoration: underline;
     font-size: 24px;
-    text-align: center
+    text-align: center;
 }
 
 a#comm:hover {text-decoration: none;}
 
-a.composer:hover {color: greenyellow}
+a.composer:hover {color: greenyellow;}
 
 #phil {
     color: #00d0ff;
     padding: 0px 50px;
     text-align: left;
-    line-height: 2.0
+    line-height: 2.0;
 }
 
 p,h2,h4,h5,#phil-title {
@@ -71,10 +71,10 @@ p,h2,h4,h5,#phil-title {
 
 h6 {
     color:#ffdd00;
-    text-align:center
+    text-align:center;
 }
 
-#description {padding: 0px 50px}
+#description {padding: 0px 50px;}
 
 .nav-link {font-size:24px;}
 
